@@ -1,0 +1,48 @@
+# Build results
+bin/
+obj/
+out/
+build/
+
+# Visual Studio cache
+.vs/
+*.user
+*.rsuser
+*.suo
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Auto generated files
+*.cache
+*.db
+*.pdb
+
+# Publish output
+PublishProfiles/
+
+# Rider / JetBrains (in case you're using it)
+.idea/
+*.sln.iml
+
+# Backup and crash files
+*.orig
+
+# Configuration
+appsettings.Development.json
+appsettings.Local.json
+
+# System files
+Thumbs.db
+desktop.ini
+.DS_Store
