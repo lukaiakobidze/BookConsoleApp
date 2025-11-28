@@ -1,6 +1,6 @@
 ﻿namespace BookApp
 {
-    public class BookManager
+    public class BookManager : IBookManager
     {
         private readonly List<Book> books;
         private readonly BookStorage storage;

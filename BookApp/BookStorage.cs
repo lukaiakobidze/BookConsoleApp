@@ -1,6 +1,6 @@
 ﻿namespace BookApp
 {
-    public class BookStorage
+    public class BookStorage : IBookStorage
     {
         private readonly string filePath;
 
